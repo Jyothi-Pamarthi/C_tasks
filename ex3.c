@@ -6,8 +6,8 @@ struct student{
 };
 int main()
 {
-        struct student STD;
-	typedef STD Jyothi;
+        typedef struct student STD;
+	STD Jyothi;
 	Jyothi.rnum=14;
 	Jyothi.class=9;
 	Jyothi.marks=70;
