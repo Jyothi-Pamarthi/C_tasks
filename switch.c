@@ -70,7 +70,7 @@ int main()
 
 
 
-/*#include<stdio.h>
+#include<stdio.h>
 int main()
 {
         int a,A,B,C;
